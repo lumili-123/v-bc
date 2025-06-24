@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "meal": "breakfast",
+      "desc": "粥"
+    },
+    {
+      "meal": "lunch",
+      "desc": "面"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "user1",
+      "meals": [
+        "breakfast"
+      ]
+    }
+  ]
+}
